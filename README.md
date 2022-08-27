@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-I do not know Redux
-Project is not ended
+I do not know Redux.
+Project is not ended.
 I thought that hooks replace the Redux, but I can't
 
 ## Available Scripts
